@@ -18,6 +18,10 @@ Document the design of your project as it develops.
 
 This may include:
 
+|---|---|---|
+|Clock|Functions|
+
+
 
 - Block diagrams
 - Circuit schematics
