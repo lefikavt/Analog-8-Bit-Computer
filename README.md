@@ -13,6 +13,10 @@ Design and construct a functional 8-bit computer using individual electronic com
 I hope to understand the fundamental principles of computer architecture and digital electronics by building a processor and its supporting subsystems from the component level. I also want to gain hands on experience with circuit design, digital logic, wiring and breadboards, and troubleshooting. 
 
 ## Design and Implementation
+The computer follows a simple bus-based architecture, similar to the SAP-1 design used in Ben Eater's breadboard computer. Every module connects to a shared 8-bit bus, and the control unit decides which module writes to the bus and which module reads from it on each clock cycle.
+
+<img width="533" height="243" alt="Screenshot 2026-11-16 120943" src="https://github.com/user-attachments/assets/418c6805-08d6-4ab7-81f0-2c0dc7a7dd80" />
+
 
 Document the design of your project as it develops.
 
