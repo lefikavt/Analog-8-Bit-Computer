@@ -41,7 +41,7 @@ Document the major components and materials used for the project.
 
 | Item | Quantity | Estimated Cost | Link |
 |---|---:|---:|---|
-| Component | 1 | $0.00 | Link |
+| NPN transistors (2N3904 or 2N2222) | 1 | $0.00 | Link |
 
 **Estimated Total Cost:** $250
 
@@ -52,7 +52,7 @@ Outline the major stages of the project and update them as work progresses.
 | Milestone | Target Date | Status |
 |---|---|---|
 | Project planning | 11/20/26 | In Progress |
-| Initial design | Date | Not Started |
+| Initial design (block diagram, gate schematics, parts ordered) | 12/04/26 | Not Started |
 | Prototype | Date | Not Started |
 | Testing | Date | Not Started |
 | Project completion | Date | Not Started |
