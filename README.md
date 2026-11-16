@@ -72,7 +72,8 @@ Organize and document important project files in this repository. Depending on t
 - Documentation
 
 ## Useful Links
-
+Reference #1: https://youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU&si=Aoggak8pOQxEdGST
+Reference #2: https://arghyabi.in/projects/8bit-computer-with-logic-gates/
 Add any references, datasheets, documentation, tutorials, or other resources relevant to the project.
 
 ## Project Image
