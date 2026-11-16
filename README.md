@@ -76,7 +76,6 @@ Refrence #1 (Ben Eater's: Building an 8-bit breadboard computer): https://www.yo
 
 Reference #2: https://arghyabi.in/projects/8bit-computer-with-logic-gates/
 
-Add any references, datasheets, documentation, tutorials, or other resources relevant to the project.
 
 ## Project Image
 
