@@ -21,12 +21,6 @@ The computer follows a simple bus-based architecture, similar to the SAP-1 desig
 Document the design of your project as it develops.
 
 This may include:
-
-|---|---|---|
-|Clock|Functions|
-
-
-
 - Block diagrams
 - Circuit schematics
 - PCB designs
