@@ -27,7 +27,11 @@ This may include:
 - CAD models
 - Software architecture
 - Hardware selection
-- Calculations
+Calculations will be documented here as the design develops, including:
+- Transistor base resistor values for reliable switching at 5 V
+- LED current-limiting resistor values
+- Clock frequency (RC timing values for the 555 timer)
+- Power consumption and current draw per module
 - Testing methods
 
 Explain major design decisions and why you made them.
