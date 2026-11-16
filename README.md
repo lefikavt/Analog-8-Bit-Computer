@@ -1,21 +1,16 @@
-# Project Name
+# Analog 8-Bit Computer
 
-> Replace this title with the name of your project.
+## Lefika Tlhabano
 
-## Project Owner
-
-**Name:** Your Name  
-**Virginia Tech Email:** yourpid@vt.edu
+**Name:** Lefika Tlhabano
+**Virginia Tech Email:** lefika@vt.edu
 
 ## Project Overview
 
-Provide a clear description of what you are building and the overall goal of the project.
-
-Include enough detail for someone unfamiliar with the project to understand what it does and why you are building it.
+Design and construct a functional 8-bit computer using individual electronic components, including transistors, resistors, capacitors, and diodes. The goal is to understand the fundamental principles of computer architecture and digital electronics by building a processor and its supporting subsystems from the component level. The computer will use binary logic to process, store, and execute instructions. Its architecture will consist of a clock circuit, registers, ALU, RAM, a program counter, an instruction decoder, a control unit, and an output system. These components will communicate through a shared data bus to perform basic arithmetic and logical operations like addition and subtraction.
 
 ## What I Hope to Learn
-
-Describe the technical skills, concepts, or experience you hope to gain from completing this project.
+I hope to understand the fundamental principles of computer architecture and digital electronics by building a processor and its supporting subsystems from the component level. I also want to gain hands on experience with circuit design, digital logic, wiring and breadboards, and troubleshooting. 
 
 ## Design and Implementation
 
@@ -42,7 +37,7 @@ Document the major components and materials used for the project.
 |---|---:|---:|---|
 | Component | 1 | $0.00 | Link |
 
-**Estimated Total Cost:** $0.00
+**Estimated Total Cost:** $250
 
 ## Timeline and Milestones
 
