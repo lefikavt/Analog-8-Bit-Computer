@@ -2,7 +2,7 @@
 
 ## Lefika Tlhabano
 
-**Name:** Lefika Tlhabano
+**Name:** Lefika Tlhabano |
 **Virginia Tech Email:** lefika@vt.edu
 
 ## Project Overview
