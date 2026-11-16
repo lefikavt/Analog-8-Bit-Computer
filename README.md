@@ -18,6 +18,7 @@ Document the design of your project as it develops.
 
 This may include:
 
+
 - Block diagrams
 - Circuit schematics
 - PCB designs
@@ -52,8 +53,6 @@ Outline the major stages of the project and update them as work progresses.
 | Project completion | Date | Not Started |
 
 ## Progress Log
-
-Use this section to document meaningful progress throughout the project.
 
 ### YYYY-MM-DD
 
