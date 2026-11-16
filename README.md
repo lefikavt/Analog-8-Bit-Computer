@@ -46,7 +46,7 @@ Outline the major stages of the project and update them as work progresses.
 
 | Milestone | Target Date | Status |
 |---|---|---|
-| Project planning | 11/6/26 | In Progress |
+| Project planning | 11/20/26 | In Progress |
 | Initial design | Date | Not Started |
 | Prototype | Date | Not Started |
 | Testing | Date | Not Started |
