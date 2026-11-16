@@ -75,12 +75,3 @@ Organize and document important project files in this repository. Depending on t
 Refrence #1 (Ben Eater's: Building an 8-bit breadboard computer): https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU
 
 Reference #2: https://arghyabi.in/projects/8bit-computer-with-logic-gates/
-
-
-## Project Image
-
-Replace the `hero.png` file in the root of this repository with an image representing your project.
-
-**Keep the filename as `hero.png`.**
-
-This image is used as the project cover image on the AMP Lab website.
