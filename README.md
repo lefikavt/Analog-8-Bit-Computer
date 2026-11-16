@@ -75,3 +75,5 @@ Organize and document important project files in this repository. Depending on t
 Refrence #1 (Ben Eater's: Building an 8-bit breadboard computer): https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU
 
 Reference #2: https://arghyabi.in/projects/8bit-computer-with-logic-gates/
+
+Reference #3: https://blog.fponzi.me/2024-10-15-my-8-bit-breadboard-computer.html
