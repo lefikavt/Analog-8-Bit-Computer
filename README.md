@@ -42,25 +42,24 @@ Document the major components and materials used for the project.
 ### Logic ICs
 | Item | Quantity | Estimated Cost | Link |
 |---|---:|---:|---|
-| NPN transistors (2N3904 or 2N2222) | 4 | $0.00 | Link |
-| 74LS00 quad NAND gate | 2 | $8.00	 | Link |
-| 74LS02 quad NOR gate | 1 | $0.00 | Link |
-| 74LS04 hex inverter | 5 | $0.00 | Link |
-| 74LS08 quad AND gate | 3 | $0.00 | Link |
-| 74LS32 quad OR gate | 2 | $0.00 | Link |
-| 74LS86 quad XOR gate (ALU subtraction) | 1 | $0.00 | Link |
-| 74LS107 dual JK flip-flop (replaces hard-to-find 74LS76) | 1 | $0.00 | Link |
-| 74LS138 3-to-8 line decoder | 1 | $0.00 | Link |
-| 74LS139 dual 2-to-4 line decoder | 1 | $0.00 | Link |
-| 74LS157 quad 2-to-1 data selector | 4 | $0.00 | Link |
-| 74LS161 4-bit counter (program counter, step counter) | 2 | $0.00 | Link |
-| 74LS173 4-bit D-type register | 2 | $0.00 | Link |
-| 74189 64-bit RAM | 8 | $0.00 | Link |
-| 74LS245 octal bus transceiver | 2 | $0.00 | Link |
-| 74LS273 octal D flip-flop (output register) | 6 | $0.00 | Link |
-| 74LS283 4-bit binary full adder | 1 | $0.00 | Link |
-| 74LS273 octal D flip-flop (output register) | 2 | $0.00 | Link |
-| 28C16 EEPROM (control logic and display decoder) | 3 | $0.00 | Link |
+| NPN transistors (2N3904 or 2N2222) | 4 | $3.00 | Link |
+| 74LS00 quad NAND gate | 2 | $2.00	 | Link |
+| 74LS02 quad NOR gate | 1 | $1.00 | Link |
+| 74LS04 hex inverter | 5 | $4.00 | Link |
+| 74LS08 quad AND gate | 3 | $3.00 | Link |
+| 74LS32 quad OR gate | 2 | $1.00 | Link |
+| 74LS86 quad XOR gate (ALU subtraction) | 2 | $2.00 | Link |
+| 74LS107 dual JK flip-flop (replaces hard-to-find 74LS76) | 1 | $2.00 | Link |
+| 74LS138 3-to-8 line decoder | 1 | $1.00 | Link |
+| 74LS139 dual 2-to-4 line decoder | 1 | $1.00 | Link |
+| 74LS157 quad 2-to-1 data selector | 4 | $4.00 | Link |
+| 74LS161 4-bit counter (program counter, step counter) | 2 | $3.00 | Link |
+| 74LS173 4-bit D-type register | 8 | $10.00 | Link |
+| 74189 64-bit RAM | 2 | $10.00 | Link |
+| 74LS245 octal bus transceiver | 6 | $9.00 | Link |
+| 74LS273 octal D flip-flop (output register) | 1 | $2.00 | Link |
+| 74LS283 4-bit binary full adder | 2 | $3.00 | Link |
+| 28C16 EEPROM (control logic and display decoder) | 3 | $15.00 | Link |
 
 
 
