@@ -61,6 +61,13 @@ Document the major components and materials used for the project.
 | 74LS283 4-bit binary full adder | 2 | $3.00 | Link |
 | 28C16 EEPROM (control logic and display decoder) | 3 | $15.00 | Link |
 
+### Passive Components, Switches, and Displays
+| Item | Quantity | Estimated Cost | Link |
+|---|---:|---:|---|
+| NPN transistors (2N3904 or 2N2222) | 4 | $3.00 | Link |
+| 74LS00 quad NAND gate | 2 | $2.00	 | Link |
+| 74LS02 quad NOR gate | 1 | $1.00 | Link |
+
 
 
 
