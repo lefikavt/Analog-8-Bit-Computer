@@ -39,7 +39,7 @@ Explain major design decisions and why you made them.
 
 Document the major components and materials used for the project.
 
-##Logic ICs
+## Logic ICs
 | Item | Quantity | Estimated Cost | Link |
 |---|---:|---:|---|
 | NPN transistors (2N3904 or 2N2222) | 1000 | $0.00 | Link |
