@@ -49,7 +49,7 @@ The main computer will 74LS-series logic ICs, following the parts list for Ben E
 ### Logic ICs
 | Item | Quantity | Estimated Cost | Link |
 |---|---:|---:|---|
-| NPN transistors (2N3904 or 2N2222) | 4 | $3.00 | Link |
+| 555 timer IC (clock and display timing) | 4 | $3.00 | Link |
 | 74LS00 quad NAND gate | 2 | $2.00	 | Link |
 | 74LS02 quad NOR gate | 1 | $1.00 | Link |
 | 74LS04 hex inverter | 5 | $4.00 | Link |
