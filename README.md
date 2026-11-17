@@ -40,7 +40,14 @@ Calculations will be documented here as the design develops, including:
 - Power consumption and current draw per module
 - Testing methods
 
-Explain major design decisions and why you made them.
+### Testing Methods
+I will use in order to:
+- Verify each logic gate against its truth table
+- Test each module independently using switches as inputs and LEDs as outputs
+- Use the oscilloscope to check clock signals, timing, and signal levels
+- Use the multimeter to check voltages and continuity
+- Run test programs (for example, 5 + 3 = 8) after full integration
+
 
 ## Bill of Materials
 
