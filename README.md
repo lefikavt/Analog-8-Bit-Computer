@@ -46,7 +46,7 @@ I will use in order to:
 - Test each module independently using switches as inputs and LEDs as outputs
 - Use the oscilloscope to check clock signals, timing, and signal levels
 - Use the multimeter to check voltages and continuity
-- Run test programs (for example, 5 + 3 = 8) after full integration
+- Run test programs, for example, 5 + 3 = 8
 
 
 ## Bill of Materials
