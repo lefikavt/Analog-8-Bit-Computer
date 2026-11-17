@@ -51,7 +51,7 @@ I will use in order to:
 
 ## Bill of Materials
 
-Document the major components and materials used for the project.
+The main computer will 74LS-series logic ICs, following the parts list for Ben Eater's 8-bit breadboard computer. Costs are estimates and will be updated as parts are purchased.
 
 ### Logic ICs
 | Item | Quantity | Estimated Cost | Link |
@@ -83,8 +83,6 @@ Document the major components and materials used for the project.
 | 8-position DIP switch | 1 | $2.00 | Link |
 | 4-position DIP switch | 1 | $2.00 | Link |
 | Common-cathode 7-segment display | 4 | $6.00 | Link |
-
-
 
 ### EEPROM Programmer
 | Item | Quantity | Estimated Cost | Link |
@@ -119,6 +117,8 @@ Outline the major stages of the project and update them as work progresses.
 ### 2026-11-16
 
 Planned the project scope, architecture, and timeline while looking at reference designs, like Ben Eater's 8-bit breadboard computer. Decided to start with addition, subtraction, and logic operations, and to treat multiplication and division as stretch goals. Upcoming Goal: finalize the block diagram, design the transistor-level logic gates, and order parts.
+
+
 ## Project Files
 
 Organize and document important project files in this repository. Depending on the project, this may include:
