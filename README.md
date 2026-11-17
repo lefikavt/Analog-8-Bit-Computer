@@ -31,10 +31,9 @@ Calculations will be documented here as the design develops, including:
 - LED current-limiting resistor values
 - Clock frequency (RC timing values for the 555 timer)
 - Power consumption and current draw per module
-- Testing methods
 
 ### Testing Methods
-I will use in order to:
+I will use different methods of testing in order to:
 - Verify each logic gate against its truth table
 - Test each module independently using switches as inputs and LEDs as outputs
 - Use the oscilloscope to check clock signals, timing, and signal levels
