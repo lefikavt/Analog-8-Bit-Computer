@@ -114,16 +114,7 @@ Planned the project scope, architecture, and timeline while looking at reference
 
 ## Project Files
 
-Organize and document important project files in this repository. Depending on the project, this may include:
-
-- Source code
-- KiCad files
-- Schematics
-- PCB layouts
-- CAD files
-- Datasheets
-- Test results
-- Documentation
+I currently do not have any physical progress on this project, as I am still in the planning phase, but as I progress through the project, documents, data tables, diagrams, and pictures will be shown in this section.
 
 ## Useful Links
 Refrence #1 (Ben Eater's: Building an 8-bit breadboard computer): https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU
