@@ -66,10 +66,9 @@ Outline the major stages of the project and update them as work progresses.
 
 ## Progress Log
 
-### YYYY-MM-DD
+### 2026-11-16
 
-Describe what you worked on, what was completed, any problems you encountered, and what you plan to work on next.
-
+Planned the project scope, architecture, and timeline while looking at reference designs, like Ben Eater's 8-bit breadboard computer. Decided to start with addition, subtraction, and logic operations, and to treat multiplication and division as stretch goals. Upcoming Goal: finalize the block diagram, design the transistor-level logic gates, and order parts.
 ## Project Files
 
 Organize and document important project files in this repository. Depending on the project, this may include:
