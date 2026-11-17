@@ -41,7 +41,14 @@ Document the major components and materials used for the project.
 
 | Item | Quantity | Estimated Cost | Link |
 |---|---:|---:|---|
+| NPN transistors (2N3904 or 2N2222) | 1000 | $0.00 | Link |
+| Switching diodes (1N4148) | 200 | $8.00	 | Link |
 | NPN transistors (2N3904 or 2N2222) | 1 | $0.00 | Link |
+| NPN transistors (2N3904 or 2N2222) | 1 | $0.00 | Link |
+| NPN transistors (2N3904 or 2N2222) | 1 | $0.00 | Link |
+| NPN transistors (2N3904 or 2N2222) | 1 | $0.00 | Link |
+| NPN transistors (2N3904 or 2N2222) | 1 | $0.00 | Link |
+
 
 
 **Estimated Total Cost:** $250
