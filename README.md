@@ -64,9 +64,13 @@ Document the major components and materials used for the project.
 ### Passive Components, Switches, and Displays
 | Item | Quantity | Estimated Cost | Link |
 |---|---:|---:|---|
-| NPN transistors (2N3904 or 2N2222) | 4 | $3.00 | Link |
-| 74LS00 quad NAND gate | 2 | $2.00	 | Link |
-| 74LS02 quad NOR gate | 1 | $1.00 | Link |
+| Double-throw toggle switch | 3 | $5.00 | Link |
+| 6mm momentary tact switch | 3 | $2.00	 | Link |
+| 8-position DIP switch | 1 | $2.00 | Link |
+| 4-position DIP switch | 1 | $2.00 | Link |
+| Common-cathode 7-segment display | 4 | $6.00 | Link |
+
+
 
 ### EEPROM Programmer
 | Item | Quantity | Estimated Cost | Link |
