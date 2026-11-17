@@ -68,6 +68,11 @@ Document the major components and materials used for the project.
 | 74LS00 quad NAND gate | 2 | $2.00	 | Link |
 | 74LS02 quad NOR gate | 1 | $1.00 | Link |
 
+### EEPROM Programmer
+| Item | Quantity | Estimated Cost | Link |
+|---|---:|---:|---|
+| Arduino Nano | 1 | $5.00 | Link |
+| 74HC595 shift register | 2 | $2.00 | Link |
 
 
 
