@@ -25,14 +25,7 @@ The computer follows a simple bus-based architecture, similar to the SAP-1 desig
 <img width="533" height="243" alt="Screenshot 2026-11-16 120943" src="https://github.com/user-attachments/assets/418c6805-08d6-4ab7-81f0-2c0dc7a7dd80" />
 
 
-Document the design of your project as it develops.
-
-This may include:
-- Block diagrams
-- Circuit schematics
-- Software architecture
-- Hardware selection
-
+### Calculations
 Calculations will be documented here as the design develops, including:
 - Transistor base resistor values for reliable switching at 5 V
 - LED current-limiting resistor values
