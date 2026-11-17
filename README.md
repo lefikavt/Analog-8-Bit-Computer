@@ -47,7 +47,7 @@ Document the major components and materials used for the project.
 | 74LS02 quad NOR gate | 1 | $1.00 | Link |
 | 74LS04 hex inverter | 5 | $4.00 | Link |
 | 74LS08 quad AND gate | 3 | $3.00 | Link |
-| 74LS32 quad OR gate | 2 | $1.00 | Link |
+| 74LS32 quad OR gate | 1 | $1.00 | Link |
 | 74LS86 quad XOR gate (ALU subtraction) | 2 | $2.00 | Link |
 | 74LS107 dual JK flip-flop (replaces hard-to-find 74LS76) | 1 | $2.00 | Link |
 | 74LS138 3-to-8 line decoder | 1 | $1.00 | Link |
