@@ -43,6 +43,7 @@ Document the major components and materials used for the project.
 |---|---:|---:|---|
 | NPN transistors (2N3904 or 2N2222) | 1 | $0.00 | Link |
 
+
 **Estimated Total Cost:** $250
 
 ## Timeline and Milestones
@@ -52,10 +53,16 @@ Outline the major stages of the project and update them as work progresses.
 | Milestone | Target Date | Status |
 |---|---|---|
 | Project planning | 11/20/26 | In Progress |
-| Initial design (block diagram, gate schematics, parts ordered) | 12/04/26 | Not Started |
-| Prototype | Date | Not Started |
-| Testing | Date | Not Started |
-| Project completion | Date | Not Started |
+| Initial Design (block diagram, gate schematics, parts ordered) | 12/04/26 | Not Started |
+| Logic Gates and Clock Circuit Working | 02/19/26 | Not Started |
+| Registers Working | 02/26/27 | Not Started |
+| ALU Working | 03/5/27 | Not Started |
+| RAM and Program Counter Working | 03/15/27 | Not Started |
+| Instruction Register, Decoder, and Control Unit Working | 03/12/27 | Not Started |
+| Full Integration (first program runs) | 03/19/27 | Not Started |
+| Testing and debugging | 03/26/27 | Not Started |
+| Project Completion (documentation and demonstration) | 04/02/27 | Not Started |
+
 
 ## Progress Log
 
